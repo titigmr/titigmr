@@ -1,7 +1,5 @@
 ### Hello ! 👋
 
-<br>
-
 <img src='img/banner.png' >
 
 <br>
